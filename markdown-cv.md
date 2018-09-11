@@ -1,4 +1,4 @@
-![](yazid.png)
+![CV](yazid.png)
 # yazid krayem
 ## Email:ykrayyem@gmail.com
 -----------------------------
