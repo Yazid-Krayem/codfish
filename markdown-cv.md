@@ -1,4 +1,4 @@
-![](yazid.jpg)
+![](https://photos.app.goo.gl/JGZTUH1vbCdCBRMs8)
 # yazid krayem
 ## Email:ykrayyem@gmail.com
 -----------------------------
