@@ -9,5 +9,5 @@
 - HTML5,CSS3,JavaScript.
 
 
-**background Education: **
+**background Education: 
 - Codi(web development shcool )
