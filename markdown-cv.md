@@ -1,4 +1,4 @@
-![](/home/rakon1/Desktop/codfish/yazid.jpg)
+![](yazid.png)
 # yazid krayem
 ## Email:ykrayyem@gmail.com
 -----------------------------
