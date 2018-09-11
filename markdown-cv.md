@@ -1,13 +1,12 @@
-#**yazid krayem**
-##Email:*ykrayyem@gmail.com*
-##Gender:Male
+#yazid krayem
+##Email:ykrayyem@gmail.com
 -----------------------------
 
-**##Training:**
+##Training:
 
--WordPress website development tool (100 hours) working on this [link](http://multiaidprograms.org/)
--Linux user administarion
--HTML5,CSS3,JavaScript
+- WordPress website development tool (100 hours) working on this [link](http://multiaidprograms.org/).
+- Linux user administarion.
+- HTML5,CSS3,JavaScript.
 
 
 **##background Education:##
