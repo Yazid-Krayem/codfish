@@ -1,4 +1,4 @@
-![CV](https://drive.google.com/open?id=1np16iUIH4rJh09JYLoFk4tQ_6aZWQMqE)
+![<img src="yazid.jpg">]()
 # yazid krayem
 ## Email:ykrayyem@gmail.com
 -----------------------------
